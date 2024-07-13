@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/progAreej/library-app3.git/static/css/main.31d6cfe0.css",
+    "main.js": "/progAreej/library-app3.git/static/js/main.92a66379.js",
+    "static/js/453.6d322b2d.chunk.js": "/progAreej/library-app3.git/static/js/453.6d322b2d.chunk.js",
+    "index.html": "/progAreej/library-app3.git/index.html",
+    "main.92a66379.js.map": "/progAreej/library-app3.git/static/js/main.92a66379.js.map",
+    "453.6d322b2d.chunk.js.map": "/progAreej/library-app3.git/static/js/453.6d322b2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.92a66379.js"
+  ]
+}
